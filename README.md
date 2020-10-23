@@ -1,8 +1,2 @@
 # IOS-GAME
-Juego para iPhone creado por mi mediante la plataforma Xcode y lenguaje Swift.
-
-EL JUEGO SE TRATA DE UNA SIMULACIÓN DEL FAMOSO JUEGO FLAPPY BIRD PERO CON UN TOQUE PERSONAL A LA SAGA DE RATCHET AND CLANK.
-
-SE HAN UTILIZADO LAS CLASES DE SPRITEKIT PARA LOS NODOS Y LA CLASE USER DAFAULT PARA ALMACENAR EL VALOR DEL RECORD POR SIEMPRE.
-
-AUNQUE NO ES UNA VERSIÓN FINAL, ESTE JUEGO ME HA SERVIDO MUCHO PARA MEJORAR MIS CONOCIMIENTOS SOBRE SPRITEKIT.
+This is a small game created by me based on the popular Ratchet and Clank videogame. I have developed this game with the platform Xcode and using Swift language. To develop IOS games, also I needed the framework SpriteKit, which is based on nodes. I hope you like it :)
